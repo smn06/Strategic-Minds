@@ -1,4 +1,4 @@
-### Title: "Strategic Minds: Game-Playing AI for Dota 2 and StarCraft II"
+### Strategic Minds: Game-Playing AI for Dota 2 and StarCraft II
 
 #### Overview
 
