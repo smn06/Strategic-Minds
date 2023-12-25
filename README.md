@@ -1,7 +1,9 @@
-Strategic-Minds
-==============================
+### Title: "Strategic Minds: Game-Playing AI for Dota 2 and StarCraft II"
 
-A short description of the project.
+#### Overview
+
+Welcome to Strategic Minds, an exciting project focused on training an advanced AI agent to master complex games like Dota 2 and StarCraft II. This repository contains the codebase, documentation, and resources needed to delve into the world of game-playing artificial intelligence.
+
 
 Project Organization
 ------------
@@ -52,6 +54,54 @@ Project Organization
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
---------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+#### Project Goals
+
+The primary objectives of this project are:
+
+1. **Game Mastery**: Train an AI agent to achieve expert-level performance in challenging and dynamic games such as Dota 2 and StarCraft II.
+
+2. **Deep Reinforcement Learning**: Implement state-of-the-art deep reinforcement learning techniques to enable the AI to learn and adapt to various in-game scenarios.
+
+3. **OpenAI Gym Integration**: Connect the AI agent with OpenAI Gym environments tailored for Dota 2 and StarCraft II, providing a standardized interface for training and evaluation.
+
+4. **Community Collaboration**: Foster collaboration and knowledge-sharing within the AI and gaming communities. Encourage contributors to explore and enhance the project.
+
+#### Getting Started
+
+Follow these steps to get started with the project:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/strategic-minds.git
+   cd strategic-minds
+   ```
+
+2. **Environment Setup:**
+   - Set up a virtual environment (recommended).
+   - Install dependencies:
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+3. **Training the AI Agent:**
+   - Explore the provided Jupyter notebooks and scripts for training the AI agent.
+   - Customize configurations and parameters based on your preferences.
+
+4. **Evaluation and Testing:**
+   - Evaluate the trained AI agent in the provided environments.
+   - Run test scenarios and analyze performance metrics.
+
+5. **Contribute:**
+   - Join the community! Contribute by fixing bugs, enhancing algorithms, or suggesting improvements.
+   - Check out the [Contribution Guidelines](CONTRIBUTING.md) for more information.
+
+#### Documentation
+
+For detailed information on the project structure, API documentation, and training strategies, refer to the [Documentation](docs/) directory.
+
+#### License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
