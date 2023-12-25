@@ -73,7 +73,7 @@ Follow these steps to get started with the project:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/strategic-minds.git
+   git clone https://github.com/smn06/strategic-minds.git
    cd strategic-minds
    ```
 
