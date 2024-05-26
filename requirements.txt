@@ -1,5 +1,12 @@
 # local package
 -e .
+gym
+numpy
+pandas
+matplotlib
+seaborn
+torch
+scikit-learn
 
 # external requirements
 click
